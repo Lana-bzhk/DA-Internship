@@ -8,7 +8,7 @@ Python pipeline for cleaning CRM export and preparing data for Power BI.
 - extract telegram
 - merge notes
 tes
-
+utm
 ---
 
 ## Key logic
